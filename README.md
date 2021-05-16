@@ -47,7 +47,8 @@
   Also please check out this application's repo and my other work at:
   https://github.com/zreggert
 
-##Links
+## Links
 
 https://zreggert.github.io/ecommerce-backend/
 
+![gif of video walkthrough](./assets/vid-walk-gif.gif)

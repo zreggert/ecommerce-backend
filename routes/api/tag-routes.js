@@ -52,7 +52,7 @@ router.put('/:id', async (req, res) => {
   try {
     const tagData = await Tag.update(req.body, {
       where: {
-        id: req.pararms.id,
+        id: req.params.id,
       }
     });
     if (!tagData[0]) {

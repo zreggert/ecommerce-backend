@@ -47,3 +47,4 @@
   Also please check out this application's repo and my other work at:
   https://github.com/zreggert
 
+https://zreggert.github.io/ecommerce-backend/
